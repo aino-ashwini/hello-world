@@ -6,7 +6,6 @@ public class Main {
 		System.out.println("I am in Main");
 		
 		new Main().display();
-		new Main().prashantDisplay;
 	}
 	void display()
 	{
