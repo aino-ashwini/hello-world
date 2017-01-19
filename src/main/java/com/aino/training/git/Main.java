@@ -10,6 +10,7 @@ public class Main {
 	void display()
 	{
 		System.out.println("hello i am in second function");
+		System.out.println("this is ajay");
 	}
 
 }
